@@ -119,4 +119,4 @@ If you found this project helpful or interesting, please consider giving it a �
 
 ---
 
-<p align="center">Made with ❤️ during CodeAlpha Internship</p>
+<p align="center">Made with ❤️</p>
